@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Student\\AP\\07\\Lab_07_1Recursive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F25418E1-545F-445A-8777-B33E7D364674}|Lab_07_1Recursive.vcxproj|D:\\Student\\AP\\07\\Lab_07_1Recursive\\Lab_07_1Recursive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F25418E1-545F-445A-8777-B33E7D364674}|Lab_07_1Recursive.vcxproj|solutionrelative:Lab_07_1Recursive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|D:\\Student\\AP\\07\\Lab_07_1Recursive\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Student\\AP\\07\\Lab_07_1Recursive\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Student\\AP\\07\\Lab_07_1Recursive\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAIwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T13:12:04.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_07_1Recursive.cpp",
+              "DocumentMoniker": "D:\\Student\\AP\\07\\Lab_07_1Recursive\\Lab_07_1Recursive.cpp",
+              "RelativeDocumentMoniker": "Lab_07_1Recursive.cpp",
+              "ToolTip": "D:\\Student\\AP\\07\\Lab_07_1Recursive\\Lab_07_1Recursive.cpp",
+              "RelativeToolTip": "Lab_07_1Recursive.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T13:10:14.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

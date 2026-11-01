@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab_07_1Recursive.vcxproj" Id="f25418e1-545f-445a-8777-b33e7d364674" />
+  <Project Path="UnitTest1/UnitTest1.vcxproj" />
+</Solution>
